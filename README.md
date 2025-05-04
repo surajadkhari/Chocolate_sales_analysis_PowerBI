@@ -1,4 +1,4 @@
-<img width="1035" alt="Screenshot 2025-04-26 at 9 23 20 PM" src="https://github.com/user-attachments/assets/710ccc36-ff09-4640-a042-189f2dd9dd03" />
+
 # 🍫 Chocolate Sales Analysis Dashboard (Power BI)
 
 Hi! I'm Surat Adhikari – a Data Science student with a strong interest in using data to solve real business problems. This Power BI project is a part of my learning journey, where I explore real-world sales data to create an insightful, interactive dashboard. It tracks key performance indicators like total sales, profit %, cost trends, and sales rep efficiency – all with a clean, executive-style layout.
@@ -18,7 +18,7 @@ This project helped me deepen my understanding of DAX, Power BI time intelligenc
 
 ## 📊 Key Dashboard Features
 
-![Chocolate Sales Dashboard](https://github.com/surajadkhari/Chocolate_sales_analysis_PowerBI/blob/main/assets/chocolate_dashboard.png)
+<img width="1234" alt="image" src="https://github.com/user-attachments/assets/6ac94c16-296c-4d20-919a-717a1e9c0e0e" />
 
 - ✅ Total KPIs: Sales ($34.0M), Profit ($20.5M), Cost ($13.52M), Boxes (2M), Shipments (6K)  
 - 📉 MoM performance tracking with color-coded percentage changes  
